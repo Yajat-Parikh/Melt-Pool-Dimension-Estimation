@@ -18,7 +18,7 @@ Model training
 Evaluation using R² scores on different dimensions
 
 📈 Results Summary
-Built an initial predictive model with promising performance on training data ( R² scores: Length – 0.98, Width – 0.96, Depth – 0.75), but faced generalization challenges due to limited dataset size.
+Built an initial predictive model with promising performance on training data ( R² scores: Length – 0.98, Width – 0.96, Depth – 0.75).
 
 ⚠️ Disclaimer
 Disclaimer:
