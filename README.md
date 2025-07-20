@@ -8,9 +8,13 @@ The goal was to explore how alloy composition and process parameters influence m
 Key steps include:
 
 Data collection from publicly available sources.
+
 Cleaning and preprocessing of alloy composition and process parameter data.
+
 Feature correlation analysis.
+
 Model training.
+
 Evaluation using R² scores on different dimensions.
 
 📈 Results Summary:
